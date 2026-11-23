@@ -1,5 +1,14 @@
 <div align="center">Hey, I'm Anshika! 👋
 💻 Software Engineer · 🌐 Full-Stack Developer · ✨ Always Building
+   <p align="center">
+  <img
+    src="YOUR_PHOTO_URL"
+    width="160"
+    height="160"
+    alt="Anshika Bajpai"
+    style="border-radius: 50%;"
+  />
+</p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=950&color=FF5DA2&center=true&vCenter=true&width=760&lines=Turning+ideas+into+real+products+%E2%9C%A8;Java+%2B+Next.js+%2B+curiosity;Learning.+Building.+Leveling+up.+%F0%9F%8E%AE;One+commit+closer+to+the+next+big+thing" alt="Animated introduction" /><a href="https://github.com/anshika870"><img src="https://img.shields.io/badge/GitHub-14121F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://durga-jewellers-one.vercel.app"><img src="https://img.shields.io/badge/Live_Project-Durga_Jewellers-FF5DA2?style=for-the-badge&logo=vercel&logoColor=white" alt="Durga Jewellers demo" /></a>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14121F,35:6E3B9A,70:FF5DA2,100:39C8D6&height=5&section=header" width="100%" alt="Pink purple cyan divider" /></div>✨ A little about me

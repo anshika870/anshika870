@@ -1,52 +1,6 @@
+<!-- ============ HEADER ============ --> <div align="center"> <img src="./header.svg" width="100%" alt="Anshika Bajpai"/> <a href="https://github.com/anshika870"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=720&height=60&lines=%3E+PLAYER+1+%3A+ANSHIKA+BAJPAI;%3E+CLASS+%3A+SOFTWARE+ENGINEER;%3E+MAIN+QUEST+%3A+JAVA+BACKEND+%E2%98%95;%3E+SIDE+QUEST+%3A+AI+%2F+ML+%F0%9F%A4%96;%3E+STATUS+%3A+LEVELING+UP+EVERY+DAY+%F0%9F%9A%80" alt="Typing SVG"/> </a> <br/> <table> <tr> <td align="center"><img src="./photo.png" width="200" alt="Anshika Bajpai"/><br/><b>👑 Anshika Bajpai</b></td> <td align="center"><img src="./coding-girl.svg" width="420" alt="Animated girl coding"/></td> </tr> </table> <br/>
 
-
-<!-- ============ HEADER ============ -->
-<div align="center">
-
-<!-- GAMING STYLE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14121F,50:6E3B9A,100:00E5FF&height=200&section=header&text=ANSHIKA%20BAJPAI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=13&descAlignY=60&animation=fadeIn" width="100%" alt="Anshika Bajpai Header"/>
-
-<br/>
-
-<!-- ANIMATED INTRODUCTION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&height=55&lines=Hi%2C+I'm+Anshika+Bajpai+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;Learning+Java+Backend+%26+AI%2FML;Building+Real-World+Applications+%F0%9F%9A%80;Always+Learning.+Always+Building." alt="Animated introduction"/>
-
-<br/><br/>
-
-<!-- SOCIAL LINKS -->
-<a href="https://github.com/anshika870">
-<img src="https://img.shields.io/badge/GitHub-17152B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://linkedin.com/in/anshika-bajpai/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://durga-jewellers-one.vercel.app">
-<img src="https://img.shields.io/badge/Durga_Jewellers-Live_Website-FF5DA2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:9B7BFF,100:FF5DA2&height=3" width="100%" alt="Divider"/>
-
-</div>
-
-
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center"><img src="./photo.png" width="200" alt="Anshika Bajpai"/><br/><b>👑 Anshika Bajpai</b></td>
-    <td align="center"><img src="./coding-girl.svg" width="420" alt="Animated girl coding"/></td>
-  </tr>
-</table>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=anshika870&label=PLAYER%20VIEWS&color=ff4fd8&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/anshika870?style=for-the-badge&logo=github&color=00e5ff&label=STARS)
+Show Image Show Image
 
 </div>
 

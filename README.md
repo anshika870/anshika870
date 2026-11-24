@@ -16,10 +16,7 @@
   </tr>
 </table>
 
-<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=anshika870&label=PLAYER%20VIEWS&color=ff4fd8&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/anshika870?style=for-the-badge&logo=github&color=00e5ff&label=STARS)
 
 </div>
 

@@ -1,11 +1,19 @@
+
 <!-- ============ HEADER ============ -->
 <div align="center">
 
 <img src="./header.svg" width="100%" alt="Anshika Bajpai"/>
 
-<a href="https://github.com/anshika870">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=720&height=60&lines=%3E+PLAYER+1+%3A+ANSHIKA+BAJPAI;%3E+CLASS+%3A+SOFTWARE+ENGINEER;%3E+MAIN+QUEST+%3A+JAVA+BACKEND+%E2%98%95;%3E+SIDE+QUEST+%3A+AI+%2F+ML+%F0%9F%A4%96;%3E+STATUS+%3A+LEVELING+UP+EVERY+DAY+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&height=55&lines=Hi%2C+I'm+Anshika+Bajpai+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;Learning+Java+Backend+%26+AI%2FML;Building+real-world+applications+%F0%9F%9A%80;Always+Learning.+Always+Building." alt="Animated introduction"/>
+
+<br/>
+
+<a href="https://github.com/anshika870">GitHub</a> •
+<a href="https://durga-jewellers-one.vercel.app">Live Project: Durga Jewellers</a> •
+<a href="https://linkedin.com/in/anshika-bajpai/">LinkedIn</a>
+
+</div>
+
 
 <br/>
 
@@ -111,7 +119,11 @@ motto:      "Code. Break. Fix. Level Up. Repeat."
 ## 🏅 `TROPHY_ROOM`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anshika870&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+  <img
+    src="https://raw.githubusercontent.com/anshika870/anshika870/main/photo.png"
+    width="160"
+    alt="Anshika Bajpai"
+  />
 </div>
 
 ---

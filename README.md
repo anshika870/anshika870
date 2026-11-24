@@ -1,10 +1,30 @@
-<!-- ============ HEADER ============ --> <div align="center"> <img src="./header.svg" width="100%" alt="Anshika Bajpai"/> <a href="https://github.com/anshika870"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=720&height=60&lines=%3E+PLAYER+1+%3A+ANSHIKA+BAJPAI;%3E+CLASS+%3A+SOFTWARE+ENGINEER;%3E+MAIN+QUEST+%3A+JAVA+BACKEND+%E2%98%95;%3E+SIDE+QUEST+%3A+AI+%2F+ML+%F0%9F%A4%96;%3E+STATUS+%3A+LEVELING+UP+EVERY+DAY+%F0%9F%9A%80" alt="Typing SVG"/> </a> <br/> <table> <tr> <td align="center"><img src="./photo.png" width="200" alt="Anshika Bajpai"/><br/><b>👑 Anshika Bajpai</b></td> <td align="center"><img src="./coding-girl.svg" width="420" alt="Animated girl coding"/></td> </tr> </table> <br/>
+<!-- ============ HEADER ============ -->
+<div align="center">
 
-Show Image Show Image
+<img src="./header.svg" width="100%" alt="Anshika Bajpai"/>
+
+<a href="https://github.com/anshika870">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=720&height=60&lines=%3E+PLAYER+1+%3A+ANSHIKA+BAJPAI;%3E+CLASS+%3A+SOFTWARE+ENGINEER;%3E+MAIN+QUEST+%3A+JAVA+BACKEND+%E2%98%95;%3E+SIDE+QUEST+%3A+AI+%2F+ML+%F0%9F%A4%96;%3E+STATUS+%3A+LEVELING+UP+EVERY+DAY+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center"><img src="./photo.png" width="200" alt="Anshika Bajpai"/><br/><b>👑 Anshika Bajpai</b></td>
+    <td align="center"><img src="./coding-girl.svg" width="420" alt="Animated girl coding"/></td>
+  </tr>
+</table>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=anshika870&label=PLAYER%20VIEWS&color=ff4fd8&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/anshika870?style=for-the-badge&logo=github&color=00e5ff&label=STARS)
 
 </div>
 
 ---
+
 
 ## 🎮 `PLAYER_PROFILE.exe`
 

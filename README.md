@@ -120,10 +120,10 @@ motto:      "Code. Break. Fix. Level Up. Repeat."
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anshika-bajpai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:officialanshika.bajpai@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-ff4fd8?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://instagram.com/your-insta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
 
 <br/><br/>
 

@@ -1,134 +1,62 @@
-<!-- ============ HEADER ============ -->
-<div align="center">
+<div align="center"><!-- RETRO ARCADE INTRO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17152B,45:573B8A,75:EF5DA8,100:42D6C8&height=180&section=header&text=ANSHIKA%20BAJPAI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=PLAYER%201%20%E2%80%A2%20SOFTWARE%20DEVELOPER&descAlignY=60&descSize=14" width="100%" alt="Anshika Bajpai retro arcade banner" /><!-- Replace this URL with your preferred profile photo URL if you want a different picture -->
+<img src="https://github.com/anshika870.png" width="150" height="150" alt="Anshika's GitHub profile photo" style="border-radius:50%;" />👾 Hey, I'm Anshika!
+Software Developer | Full-Stack Builder | Java & DSA Learner
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=EF5DA8&center=true&vCenter=true&width=650&lines=Press+Start+to+explore+my+work;Building+useful+things+one+commit+at+a+time;Java+%7C+React+%7C+Next.js+%7C+TypeScript;Learning%2C+building+and+leveling+up" alt="Animated intro" />
 
-<img src="./header.svg" width="100%" alt="Anshika Bajpai"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:42D6C8,50:9B7BFF,100:EF5DA8&height=4" width="100%" alt="Arcade divider" /></div>🕹️ PLAYER PROFILE
+Player: Anshika Bajpai
+Class: Full-Stack Developer
+Current mission: Growing as a software engineer and building real-world applications
+Power-up: Curiosity, consistency, and a love for learning
 
-<a href="https://github.com/anshika870">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=720&height=60&lines=%3E+PLAYER+1+%3A+ANSHIKA+BAJPAI;%3E+CLASS+%3A+SOFTWARE+ENGINEER;%3E+MAIN+QUEST+%3A+JAVA+BACKEND+%E2%98%95;%3E+SIDE+QUEST+%3A+AI+%2F+ML+%F0%9F%A4%96;%3E+STATUS+%3A+LEVELING+UP+EVERY+DAY+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
+I'm a Computer Science graduate who enjoys turning ideas into practical, polished applications. I like working across the stack, solving problems with code, and learning the engineering fundamentals behind reliable software.
+- 💻 Building with React, Next.js, Node.js, TypeScript, and databases
+- ☕ Strengthening my Java and backend development fundamentals
+- 🧩 Practicing Data Structures & Algorithms in Java
+- ☁️ Exploring AWS, system design, and modern application development
+- 🎮 Off-screen quest: discovering new places and collecting experiences
+🧰 INVENTORY — TECH STACK
+Category	Tools & technologies
+Languages	Java · JavaScript · TypeScript · Python
+Frontend	React · Next.js · HTML · CSS · Tailwind CSS
+Backend	Node.js · Express
+Databases	MongoDB · PostgreSQL · Supabase
+Tools	Git · GitHub · VS Code · Vercel
 
-<br/>
-
-<table>
-  <tr>
-    <td align="center"><img src="./photo.png" width="200" alt="Anshika Bajpai"/><br/><b>👑 Anshika Bajpai</b></td>
-    <td align="center"><img src="./coding-girl.svg" width="420" alt="Animated girl coding"/></td>
-  </tr>
-</table>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=anshika870&label=PLAYER%20VIEWS&color=ff4fd8&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/anshika870?style=for-the-badge&logo=github&color=00e5ff&label=STARS)
-
-</div>
-
----
-
-## 🎮 `PLAYER_PROFILE.exe`
-
-```yaml
-name:       Anshika Bajpai
-role:       Software Engineer 💻
-achievement: "🏆 Built & launched a LIVE business website (Durga Jewellers)"
-current_quest: "Java Backend (Spring Boot) ☕ + AI / ML 🤖"
-power_ups:  [Problem Solving, Clean Code, Curiosity, Consistency]
-motto:      "Code. Break. Fix. Level Up. Repeat."
-```
-
-<img align="right" width="300" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="coding"/>
-
-- 👩‍💻 Software Engineer building real-world products
-- 🌐 Created & deployed a **live business website** — [add your link here](https://your-website.com)
-- ☕ Learning **Java Backend** — Spring Boot, REST APIs, DSA
-- 🧠 Also diving into **Artificial Intelligence & Machine Learning**
-- 🏢 IT Analyst at **NTT DATA** (Noida) · ex Full Stack Intern at Innovaneers
-- 🔭 Exploring: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Generative AI
-- 🌱 Goal: build AI-powered products that solve real problems
-- ⚡ Fun fact: I debug with coffee ☕ and music 🎧
-
-<br clear="right"/>
-
----
-
-## 🕹️ `SKILL_TREE` — Tech Stack
 
 <div align="center">
 
-### ☕ Languages
-<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css&perline=5" />
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js&perline=5" />
-
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,mysql&perline=6" />
-
-### 🤖 AI / ML  *(Currently Learning)*
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,jupyter&perline=6" />
-
-### 🛠️ Tools & Cloud
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,idea,vscode,aws&perline=7" />
-
-**Core CS:** `DSA` · `OOP` · `Operating Systems` · `DBMS` · `Computer Networks` · `REST API Design`
-
-</div>
 
 
----
 
-## 📊 `STATS_SCREEN`
 
-<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=anshika870&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=ff4fd8&text_color=ffffff&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika870&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=ffffff" />
 
-<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshika870&theme=tokyonight&hide_border=true&background=0d1117&ring=ff4fd8&fire=ffd600&currStreakLabel=00e5ff" />
+</div>🌟 STAGE SELECT — FEATURED PROJECTS
+Project	What it does	Built with
+💎 Durga Jewellers	Jewellery storefront with Him/Her collections, product catalogue, and admin management features. Checkout is still in development.	Next.js · TypeScript · Supabase
+🩺 24HrHealthy	Healthcare platform with patient and appointment-management features.	MERN
+🧳 Wanderlust	Full-stack travel and listing application.	Node.js · Express · MongoDB
 
-<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshika870&theme=react-dark&bg_color=0d1117&color=00e5ff&line=ff4fd8&point=ffffff&area=true&hide_border=true" width="95%"/>
+🚩 CURRENT QUESTS
+╔══════════════════════════════════════════════╗
+║              MISSION CONTROL                 ║
+╠══════════════════════════════════════════════╣
+║  [✓] Build and ship a real-world website     ║
+║  [>] Strengthen Java and backend skills     ║
+║  [>] Solve DSA problems in Java              ║
+║  [ ] Build and document more projects        ║
+║  [ ] Learn Spring Boot and AWS step by step  ║
+║  [ ] Explore system design fundamentals      ║
+╚══════════════════════════════════════════════╝
+📊 PLAYER STATS — GITHUB ACTIVITY
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=anshika870&show_icons=true&hide_border=true&bg_color=17152B&title_color=EF5DA8&text_color=F4EAF5&icon_color=42D6C8" alt="GitHub statistics" /><img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=anshika870&hide_border=true&background=17152B&ring=EF5DA8&fire=EF5DA8&currStreakLabel=42D6C8&sideLabels=F4EAF5&dates=BDAFCB" alt="GitHub contribution streak" /></div>🤝 LET'S CONNECT
+<div align="center">I'm always happy to connect with fellow developers, exchange ideas, and collaborate on interesting projects.
 
-</div>
 
----
-
-## 🏆 `ACHIEVEMENTS_UNLOCKED`
-
-| 🎖️ Badge | Quest |
-|---|---|
-| 🥇 | Launched a **live business website** |
-| 🥈 | Working as a **Software Engineer** at NTT DATA |
-| 🥉 | Started the **AI/ML** journey |
-| 🎓 | B.Tech CSE (CGPA 8.1), KIT Kanpur |
-| 🔒 | Next: ship a Spring Boot + AI project |
-
----
-
-## 🏅 `TROPHY_ROOM`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anshika870&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-</div>
-
----
-
-## 🤝 `CONNECT_PLAYER_2`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-ff4fd8?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://instagram.com/your-insta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&color=FFD600&center=true&vCenter=true&width=600&lines=GAME+ON+%F0%9F%8E%AE+LET'S+BUILD+SOMETHING+COOL!;INSERT+COIN+TO+COLLABORATE+%F0%9F%AA%99" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%"/>
-
-</div>
+⭐ THANKS FOR PLAYING!
+Keep learning. Keep building. Keep leveling up.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF5DA8,50:9B7BFF,100:42D6C8&height=100&section=footer" width="100%" alt="Retro arcade footer" /></div>

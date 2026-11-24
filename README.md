@@ -39,7 +39,7 @@ motto:      "Code. Break. Fix. Level Up. Repeat."
 <img align="right" width="300" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="coding"/>
 
 - 👩‍💻 Software Engineer building real-world products
-- 🌐 Created & deployed a **live business website** — [add your link here](https://your-website.com)
+- 🌐 Created & deployed a **live business website** — [https://durga-jewellers-one.vercel.app/]
 - ☕ Learning **Java Backend** — Spring Boot, REST APIs, DSA
 - 🧠 Also diving into **Artificial Intelligence & Machine Learning**
 - 🏢 IT Analyst at **NTT DATA** (Noida) · ex Full Stack Intern at Innovaneers

@@ -1,18 +1,37 @@
 
+
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Anshika Bajpai"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&height=55&lines=Hi%2C+I'm+Anshika+Bajpai+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;Learning+Java+Backend+%26+AI%2FML;Building+real-world+applications+%F0%9F%9A%80;Always+Learning.+Always+Building." alt="Animated introduction"/>
+<!-- GAMING STYLE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14121F,50:6E3B9A,100:00E5FF&height=200&section=header&text=ANSHIKA%20BAJPAI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=13&descAlignY=60&animation=fadeIn" width="100%" alt="Anshika Bajpai Header"/>
 
 <br/>
 
-<a href="https://github.com/anshika870">GitHub</a> •
-<a href="https://durga-jewellers-one.vercel.app">Live Project: Durga Jewellers</a> •
-<a href="https://linkedin.com/in/anshika-bajpai/">LinkedIn</a>
+<!-- ANIMATED INTRODUCTION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&height=55&lines=Hi%2C+I'm+Anshika+Bajpai+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;Learning+Java+Backend+%26+AI%2FML;Building+Real-World+Applications+%F0%9F%9A%80;Always+Learning.+Always+Building." alt="Animated introduction"/>
+
+<br/><br/>
+
+<!-- SOCIAL LINKS -->
+<a href="https://github.com/anshika870">
+<img src="https://img.shields.io/badge/GitHub-17152B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://linkedin.com/in/anshika-bajpai/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://durga-jewellers-one.vercel.app">
+<img src="https://img.shields.io/badge/Durga_Jewellers-Live_Website-FF5DA2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:9B7BFF,100:FF5DA2&height=3" width="100%" alt="Divider"/>
 
 </div>
+
 
 
 <br/>

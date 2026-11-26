@@ -27,7 +27,7 @@
 
 ```yaml
 name:       Anshika Bajpai
-role:       Software Engineer 💻
+role:       Cloud Support Associate 💻
 achievement: "🏆 Built & launched a LIVE business website (Durga Jewellers)"
 current_quest: "Java Backend (Spring Boot) ☕ + AI / ML 🤖"
 power_ups:  [Problem Solving, Clean Code, Curiosity, Consistency]
@@ -40,7 +40,7 @@ motto:      "Code. Break. Fix. Level Up. Repeat."
 - 🌐 Created & deployed a **live business website** — [https://durga-jewellers-one.vercel.app/]
 - ☕ Learning **Java Backend** — Spring Boot, REST APIs, DSA
 - 🧠 Also diving into **Artificial Intelligence & Machine Learning**
-- 🏢 IT Analyst at **NTT DATA** (Noida) · ex Full Stack Intern at Innovaneers
+- 🏢 Cloud Support Associate at **NTT DATA** (Noida) · ex Full Stack Intern at Innovaneers
 - 🔭 Exploring: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Generative AI
 - 🌱 Goal: build AI-powered products that solve real problems
 - ⚡ Fun fact: I debug with coffee ☕ and music 🎧
@@ -99,7 +99,7 @@ motto:      "Code. Break. Fix. Level Up. Repeat."
 | 🎖️ Badge | Quest |
 |---|---|
 | 🥇 | Launched a **live business website** |
-| 🥈 | Working as a **Software Engineer** at NTT DATA |
+| 🥈 | Working as a **Cloud Support Associate** at NTT DATA |
 | 🥉 | Started the **AI/ML** journey |
 | 🎓 | B.Tech CSE (CGPA 8.1), KIT Kanpur |
 | 🔒 | Next: ship a Spring Boot + AI project |
